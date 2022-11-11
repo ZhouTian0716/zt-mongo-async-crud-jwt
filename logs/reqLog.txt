@@ -84,3 +84,5 @@
 20221112	01:06:04	45fa1d2e-8850-4138-a0d4-ceb0510572bd	DELETE	undefined	/employees
 20221112	01:06:08	d2f06074-8b4e-4057-a894-8da3f19b84a4	GET	undefined	/employees
 20221112	01:06:12	22eb1268-c7bd-485b-a1e1-f96881fb39f5	GET	undefined	/employees
+20221112	01:36:53	c34670e3-161d-44f2-8871-b19633bfab8d	GET	undefined	/
+20221112	01:36:53	876db2a8-f8f9-4fa0-964e-79ef7e819f29	GET	undefined	/css/style.css
